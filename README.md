@@ -18,3 +18,14 @@ Projeto desenvolvido em Java para o teste prático da Iniflex.
 
 - Java 21
 - Eclipse IDE
+
+## Como executar
+
+1. Importar o projeto na IDE Eclipse.
+2. Executar a classe `Principal.java`.
+
+## Estrutura do projeto
+
+- Pessoa.java
+- Funcionario.java
+- Principal.java
