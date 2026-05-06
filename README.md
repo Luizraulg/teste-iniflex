@@ -1,6 +1,6 @@
 # Teste Prático - Iniflex
 
-Projeto desenvolvido em Java para o teste prático da Iniflex.
+Projeto desenvolvido em Java para o teste prático da Projedata.
 
 ## Funcionalidades implementadas
 
